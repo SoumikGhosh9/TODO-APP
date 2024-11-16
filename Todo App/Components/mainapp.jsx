@@ -1,7 +1,8 @@
+import style from './mainapp.module.css';
 function mainapp() {
   return (
-    <div className="heading">
-        <h1>TODO App</h1>
+    <div>
+        <h1 className={style.heading} >TODO App</h1>
     </div>
   );
 }
