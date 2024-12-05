@@ -1,8 +1,17 @@
-# React + Vite
+To-Do Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+The To-Do Web Application is a powerful yet simple tool designed to help users stay organized and manage their daily tasks with ease. With features like task creation, categorization, status tracking, and deadline reminders, the application streamlines productivity and ensures nothing is forgotten. Built with a modern tech stack, it offers a responsive design that works seamlessly across all devices. Whether you're managing personal to-dos or professional deadlines, this app is your go-to solution for efficient task management.
 
-Currently, two official plugins are available:  
+A sleek and user-friendly web application designed to help users organize and manage their tasks efficiently.
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Task Management: Add, edit, and delete tasks effortlessly.
+    Task Status: Mark tasks as complete or pending.
+    Categorization: Organize tasks into categories for better tracking.
+    Responsive Design: Access the application seamlessly on any device.
+
+Technologies Used
+
+    Frontend: JavaScript, React.js
+   
